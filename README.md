@@ -11,9 +11,17 @@ We were able to provide data visualization that will allow someone who is nontec
 
 - Checkout Times for users.
 
+![Checkout Times for Users](https://user-images.githubusercontent.com/34757498/148328724-aaf756ad-dba3-43ba-9f2d-ca84bf86ed6a.png)
+
+
 - Checkout Times By Gender.
 
+![Checkout Times by Gender](https://user-images.githubusercontent.com/34757498/148329361-a630c5d8-a628-43cc-9f69-6a5a98c74f1c.png)
+
+
 - Trips By Weekday for Each Hour
+
+
 
 ![Trips by Weekday for Each Hour (1)](https://user-images.githubusercontent.com/34757498/148167355-99cf1095-f2b0-488c-958e-da5b26dfd50d.png)
 
